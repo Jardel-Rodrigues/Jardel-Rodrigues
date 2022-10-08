@@ -9,6 +9,9 @@
 # Tecnologias que utilizo atualmente
 - Java
 - Programação orientada a objeto
+- JPA / Hibernate
+- JDBC
+- Maven
 - Spring Boot
 - Postman
 - Postgre Sql
