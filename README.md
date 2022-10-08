@@ -20,5 +20,5 @@
 
 - Whatsapp: (61) 9 9422-9903
 
-
+# E-mail : rodriguesjardel96@gmail.com
 
