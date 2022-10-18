@@ -1,7 +1,7 @@
 # Olá, sou Jardel Rodrigues
 
 # Sobre
-- Estou estudando a tecnologia Java, focado mais no parte do back-end da aplicação, desenvolvimento de APIs, documentação no Swagger etc. 
+- Sou desenvolvedor Java iniciante, focado mais no parte do back-end da aplicação, desenvolvimento de APIs e documentação no Swagger etc. 
 
 # Estou interessado em
 - Estou buscado uma oportunidade de migra da aréa de teste pra desenvolvimento.
