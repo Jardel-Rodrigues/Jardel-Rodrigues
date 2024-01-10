@@ -3,9 +3,6 @@
 # Sobre
 - Sou um desenvolvedor de software apaixonado por tecnologia. Busco sempre me atualizar com as novidades do mercado para aprimorar meus conhecimentos e ser capaz de oferecer melhorias em soluções já existentes e propor novas soluções. Minha paixão pela programação e pelo desenvolvimento de software vai além de uma simples profissão; é um estilo de vida.
 
-# Estou interessado em
-- Estou buscado uma oportunidade de migra da aréa de teste pra desenvolvimento.
-
 # Tecnologias que utilizo atualmente
 - Java
 - Spring Boot
